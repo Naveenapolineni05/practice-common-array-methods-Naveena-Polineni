@@ -1,1 +1,1 @@
-# -practice-indices-and-bracket-notation-Naveena-Polineni
+# practice-common-array-methods-Naveena-Polineni
